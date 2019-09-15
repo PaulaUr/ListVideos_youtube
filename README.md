@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created from tutorial #codelyTV in React. 🤝
+Deployed in : https://jolly-colden-38e3c2.netlify.com/  🚀
 
 ## Available Scripts
 
